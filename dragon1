@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+cd
+cd .dragon
+python dragon.py
